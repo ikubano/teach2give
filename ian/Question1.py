@@ -6,5 +6,4 @@ def fizz_buzz():
     for item in output:
         print(item)
 
-# Call the function
 fizz_buzz()
